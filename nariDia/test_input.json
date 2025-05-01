@@ -1,0 +1,7 @@
+{
+  "input": {
+    "text": "[S1] Hello, this is a test of the Nari Dia text to speech model. [S2] It can generate ultra-realistic dialogue in a single pass. [S1] That's amazing! (laughs) [S2] Try it out now.",
+    "seed": 42,
+    "use_compile": true
+  }
+}
